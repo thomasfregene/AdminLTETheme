@@ -35,3 +35,5 @@ C:\Projects\BootstrapThemesForAspNet\AdminLTETheme\obj\Debug\netcoreapp3.1\Admin
 C:\Projects\BootstrapThemesForAspNet\AdminLTETheme\obj\Debug\netcoreapp3.1\AdminLTETheme.pdb
 C:\Projects\BootstrapThemesForAspNet\AdminLTETheme\obj\Debug\netcoreapp3.1\AdminLTETheme.genruntimeconfig.cache
 C:\Projects\BootstrapThemesForAspNet\AdminLTETheme\obj\Debug\netcoreapp3.1\AdminLTETheme.csproj.CopyComplete
+C:\Projects\BootstrapThemesForAspNet\AdminLTETheme\obj\Debug\netcoreapp3.1\Razor\Controllers\Profile.cshtml.g.cs
+C:\Projects\BootstrapThemesForAspNet\AdminLTETheme\obj\Debug\netcoreapp3.1\Razor\Views\Home\Profile.cshtml.g.cs
